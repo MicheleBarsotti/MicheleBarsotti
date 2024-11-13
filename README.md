@@ -3,8 +3,10 @@
 
 
 ## Publications
-[Download the List of my publications](./assets/Michele_Barsotti_Publications.pdf)
-
+[Download the List of my publications](https://github.com/MicheleBarsotti/MicheleBarsotti/blob/main/assets/Michele_Barsotti_Publications.pdf)
+<!-- 
+(./assets/Michele_Barsotti_Publications.pdf)
+-->
 <!--
 **MicheleBarsotti/MicheleBarsotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
