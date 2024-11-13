@@ -4,6 +4,10 @@
 
 ## Publications
 [Download the List of my publications](https://github.com/MicheleBarsotti/MicheleBarsotti/blob/main/assets/Michele_Barsotti_Publications.pdf)
+
+<iframe src="https://raw.githubusercontent.com/username/repository/branch/path-to-file/Michele_Barsotti_Publications.pdf" 
+        style="width:100%; height:800px;" frameborder="0"></iframe>
+        
 <!-- 
 (./assets/Michele_Barsotti_Publications.pdf)
 -->
