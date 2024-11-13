@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+## Publications
+[Download my full CV](./assets/Michele_Barsotti_Publications.pdf)
+
 <!--
 **MicheleBarsotti/MicheleBarsotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
