@@ -12,19 +12,19 @@ But... as it can be annoying reading all that boring stuff I want to follow gith
 
 ## 👨‍🔬 Professional Summary
 
-I am Dr. Michele Barsotti, currently working as a Senior BCI Research Scientist with a strong background at the intersection of neuroscience, coding, statistics, biomedical devices, and machine learning. 🧠💻📊
+I am Dr. Michele Barsotti, PhD, currently working as a _Senior BCI Research Scientist_ with a strong background at the intersection of neuroscience, coding, statistics, biomedical devices, and machine learning. 💻 :chart_with_upwards_trend: 
 
-I specialize in EEG-based brain-computer interfaces, neurorehabilitation, and real-time signal processing.  My research projects focus on analyzing biosignals and developing machine learning algorithms to decode brain activity, applying them to healthcare 🏥, assistive devices 🦾, and human-robot interaction systems 🤖.
+I specialize in EEG-based brain-computer interfaces :brain:, neurorehabilitation, and real-time signal processing.  My research projects focus on analyzing biosignals and developing machine learning algorithms to decode brain activity, applying them to healthcare 🏥, assistive devices 🦾, and human-robot interaction systems. :two_men_holding_hands:
 
 I enjoy working in a team 🤝 and believe in the value of collaboration. I often use agile methodologies 🚀 to manage projects and ensure smooth teamwork across different disciplines. I’m always excited to learn new things and explore new technologies that push the boundaries of what we can achieve in my field. ✨
 
-## 🧰 Skills
+## :bulb: Skills
 
-**Languages:** Fluent in English (reading, writing, speaking) 🇬🇧. Basic knowledge of French 🇫🇷 and Spanish 🇪🇸. Native Italian speaker 🇮🇹.
+**Languages:** Fluent in English (reading, writing, speaking) 🇬🇧. Basic knowledge of French 🇫🇷 and Spanish 🇪🇸. Native Italian speaker 🇮🇹  :pizza:.
 
 **Programming:** Proficient in Python 🐍, MATLAB, and R for data analysis, signal processing, and machine learning. Experienced with LaTeX for document preparation and scientific publishing. Basic knowledge of HTML, CSS, and JavaScript for web-based applications and data visualization. 🕸️
 
-**Machine Learning & Data Analysis:** Experience in designing and implementing machine learning models, particularly for biosignals and EEG data analysis. Skilled in feature extraction, classification, and applying deep learning techniques for real-time data processing. 🤖
+**Machine Learning & Data Analysis:** Experience in designing and implementing machine learning models, particularly for biosignals and EEG data analysis. Skilled in feature extraction, classification, and applying deep learning techniques for real-time data processing. 
 
 **Signal Processing:** Advanced skills in processing biosignals, with a focus on EEG and ECG data. Experienced in developing real-time signal processing and classification algorithms. 📈
 
