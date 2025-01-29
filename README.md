@@ -1,5 +1,15 @@
-## Hi there 👋
-I am Michele Barsotti, Ph.D
+# Hi there 👋
+I am Michele Barsotti, Ph.D. 
+Here below You can find the full resume.
+But... as it can be annoying reading all that boring stuff I want to follow github suggestion and I list some bullets about me in the next points:
+- 🔭 I’m currently working... on signal processing and machine learning applied to bio-signals for real time human-computer-machine interfaces
+- 🌱 I’m currently learning... among other things deep-learning.... in the end I really enjoy learning new things
+- 🤔 I’m looking to collaborate on ... Python3 projects
+- 💬 Languages Known ... Python, Matlab, R
+- 📫 How to reach me: [linkedin](http://www.linkedin.com/in/michele-barsotti-07080442/)
+- ⚡ Fun fact: I love spend my time playing with my kids (and also other people who enjoy to play as well!!! ;) ), listening music, playing guitar and go walk in the nature (seashore, woods, mountains...) 
+
+
 ## 👨‍🔬 Professional Summary
 
 I am Dr. Michele Barsotti, currently working as a Senior BCI Research Scientist with a strong background at the intersection of neuroscience, coding, statistics, biomedical devices, and machine learning. 🧠💻📊
