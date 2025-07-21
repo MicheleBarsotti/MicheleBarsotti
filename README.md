@@ -1,10 +1,11 @@
 # Hi there 👋
 I am Michele Barsotti, Ph.D. 
-Here below You can find the full resume.
+Here below You can find the full resume. I know my git is almost empty, all my repo are not pushed (yet).
+
 But... as it can be annoying reading all that boring stuff I want to follow github suggestion and I list some bullets about me in the next points:
-- 🔭 I’m currently working... on signal processing and machine learning applied to bio-signals for real time human-computer-machine interfaces
+- 🔭 I’m currently working... on signal processing and machine learning applied to bio-signals for real time human-computer-machine interfaces. 
 - 🌱 I’m currently learning... among other things deep-learning.... in the end I really enjoy learning new things
-- 🤔 I’m looking to collaborate on ... Python3 projects
+- 🤔 I’m looking to collaborate on ... Python projects and data-analysis. I do love programming in python. SOLID code with git review... no uncontrolled vibe-coding please
 - 💬 Languages Known ... Python, Matlab, R
 - 📫 How to reach me: [linkedin](http://www.linkedin.com/in/michele-barsotti-07080442/)
 - ⚡ Fun fact: I love spend my time playing with my kids (and also other people who enjoy to play as well!!! ;) ), listening music, playing guitar and go walk in the nature (seashore, woods, mountains...) 
