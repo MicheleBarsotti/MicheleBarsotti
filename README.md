@@ -19,40 +19,46 @@ I specialize in EEG-based brain-computer interfaces :brain:, neurorehabilitation
 
 I enjoy working in a team 🤝 and believe in the value of collaboration. I often use agile methodologies 🚀 to manage projects and ensure smooth teamwork across different disciplines. I’m always excited to learn new things and explore new technologies that push the boundaries of what we can achieve in my field. ✨
 
-## :bulb: Skills
+## :bulb: Technical Skills
 
-**Languages:** Fluent in English (reading, writing, speaking) 🇬🇧. Basic knowledge of French 🇫🇷 and Spanish 🇪🇸. Native Italian speaker 🇮🇹  :pizza:.
+**Programming Languages:** Proficient in Python 🐍, MATLAB, and R for data analysis, signal processing, and machine learning. Basic knowledge of HTML, CSS, and JavaScript for web-based applications and data visualization. 🕸️
 
-**Programming:** Proficient in Python 🐍, MATLAB, and R for data analysis, signal processing, and machine learning. Experienced with LaTeX for document preparation and scientific publishing. Basic knowledge of HTML, CSS, and JavaScript for web-based applications and data visualization. 🕸️
+**Programming Paradigms:** OOP, SOLID, Desing Patterns.
 
-**Machine Learning & Data Analysis:** Experience in designing and implementing machine learning models, particularly for biosignals and EEG data analysis. Skilled in feature extraction, classification, and applying deep learning techniques for real-time data processing. 
+**Frameworks & Tool & Libraries:** Git, CI-CD, ROS, data-science common libraries + Torch, dash, plotly.
 
-**Signal Processing:** Advanced skills in processing biosignals, with a focus on EEG and ECG data. Experienced in developing real-time signal processing and classification algorithms. 📈
+## Technical Field of Interest
+
+**Signal Processing, Machine Learning & Data Analysis:** Advanced skills in signal processing and Statistic. Strong experience In processing biosignals, with a focus on EEG and ECG data. Experienced in developing real-time signal processing and classification algorithms. 📈  Skilled in feature extraction, classification, and applying deep learning techniques for real-time data processing. 
 
 **Human-Robot Interaction:** Experienced in HRI design, integrating machine learning models with Human-Robot Interaction systems, combining software tools for real-time applications, particularly in healthcare and neurotechnological systems. 🤖🤝
+**Research & Development:** Extensive experience in academic research, including designing experiments, data collection, analysis, and writing for peer-reviewed publications. Skilled in grant and project proposal writing. 🔬
 
 **Operating Systems:** Proficient with Linux-Ubuntu 🐧, including shell scripting (Bash) and system management. Skilled in Windows environment for development and daily work. 💻
 
 **Office & Productivity Tools:** Advanced knowledge of Microsoft Office Suite (Excel, PowerPoint, Word) for data analysis, presentations, and documentation. 📊
 
-**Research & Development:** Extensive experience in academic research, including designing experiments, data collection, analysis, and writing for peer-reviewed publications. Skilled in grant and project proposal writing. 🔬
+## Soft Skills
 
-**Team Collaboration & Leadership:** Comfortable working in cross-disciplinary teams, using Agile methodologies to ensure project efficiency. Supervised students and junior colleagues, offering mentorship and guidance. 🤝
+**Team Collaboration & Leadership:** Strong skills when working in team. I love making my team great and have success. Experience in cross-disciplinary teams. **Agile** methodologies to ensure project efficiency. Supervised students and junior colleagues, offering mentorship and guidance. 🤝
 
-**Miscellaneous:** Experience in teaching 👨‍🏫, conducting training sessions, scientific consulting, LaTeX typesetting, technical writing, and organizing academic workshops and conferences. 📚
+**Miscellaneous:** Experience in teaching 👨‍🏫, conducting training sessions, scientific consulting, technical writing, and organizing academic workshops and conferences. 📚
 
+**Languages:** Fluent in English (reading, writing, speaking) 🇬🇧. Basic knowledge of French 🇫🇷 and Spanish 🇪🇸. Native Italian speaker 🇮🇹  :pizza:.
 
 ## 💼 Employment History
 
-**Senior Research Scientist** at Henesis srl, Camlin Italy srl. ([http://henesis.eu/](http://henesis.eu/)) (2020 -- Present)
+**Senior Research Scientist** at [Henesis srl](http://henesis.eu/) (2021 -- Present)
 
 *   **BCI Research & Development:** Led research into EEG-based brain-computer interfaces (BCI) for neurorehabilitation, cognitive enhancement, sleep monitoring, and assistive devices. Developed and evaluated machine learning models for assessing user engagement during ecological experiences, by collecting and analyzing data from multiple modalities (EEG, ECG, GSR, etc.). 🧠
 *   **Biosignal Acquisition & Processing:** Designed and implemented data collection protocols for EEG and other biosignals (ECG, GSR) in both controlled and real-world settings. Developed signal processing pipelines for data cleaning, feature extraction, and analysis. Developed a framework for data cleaning, visualization, feature extraction, and real-time processing. 📈
+*   **Supervision & Project Management:** Supervised students and new employees, providing guidance on research projects and data analysis. Contributed to project writing and scientific publications in leading journals. Supervised internship students and new employees. Wrote projects and scientific articles for international scientific journals. ✍️
 *   **Machine Learning & AI Integration:** Developed machine learning models for brain activity decoding and external device control. Integrated models into BCI systems for real-time applications, leveraging PyTorch frameworks. 🤖
+
+**Machine Learning Software Engineer** at [Camlin Italy srl](https://camlingroup.com/it/) (2020 -- 2021)
 *   **Real-Time Systems:** Optimized high-performance, low-latency signal processing pipelines for healthcare applications. Developed Python packages for scalable, real-time biosignal analysis and implemented graphical user interfaces for data visualization and interpretation. Implemented a Python-based real-time graphical user interface that allows the processing, visualization, and interpretation of bio-signals, taking into account temporal, frequency, and spatial domains. ⏱️
 *   **Cross-Disciplinary Collaboration:** Collaborated with neuroscientists, bioengineers, and software developers to align BCI systems with healthcare and non-medical applications. Assisted in pre-clinical and clinical trials to validate the performance and safety of BCI systems. 🤝
 *   **Human-Robot Interaction:** Integrated machine learning models and preprocessing nodes for bio-signals-based Human-Robot interaction in the ROS2 framework. 🤖
-*   **Supervision & Project Management:** Supervised students and new employees, providing guidance on research projects and data analysis. Contributed to project writing and scientific publications in leading journals. Supervised internship students and new employees. Wrote projects and scientific articles for international scientific journals. ✍️
 
 **Post-doctoral researcher** at Scuola Superiore Sant'Anna, TeCIP Institute, PERCRO lab. (2016 -- 2020)
 
@@ -163,20 +169,3 @@ I enjoy working in a team 🤝 and believe in the value of collaboration. I ofte
 ## Publications
 [Download the List of my publications](https://github.com/MicheleBarsotti/MicheleBarsotti/raw/main/assets/Michele_Barsotti_Publications.pdf)
 
-<!-- 
-(./assets/Michele_Barsotti_Publications.pdf)
--->
-<!--
-**MicheleBarsotti/MicheleBarsotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
