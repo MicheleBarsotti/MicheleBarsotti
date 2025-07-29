@@ -93,7 +93,7 @@ I enjoy working in a team 🤝 and believe in the value of collaboration. I ofte
 
 **Research Fellowship** at Scuola Superiore Sant'Anna, TeCIP Institute, PERCRO lab. (2012)
 
-*   European Project “VERE”. 🇪🇺: 
+*   Worked at the PERCRO laboratory within the European Project “VERE”. 🇪🇺
 *   Conducted research on the analysis of biomedical signals and multi-sensorial feedback in healthy volunteers. 🔬
 *   Developed a Motor Imagery-based Brain Computer Interface (BCI)
 
